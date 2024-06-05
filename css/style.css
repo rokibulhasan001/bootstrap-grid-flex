@@ -1,0 +1,38 @@
+.text1{
+	font-size: 60px;
+	float: left;
+	width: 50%;
+
+}
+.box{
+	background-color: pink;
+	height: 200px;
+	margin: 20px 0;
+	text-align: center;
+}
+.text2{
+
+	font-size: 60px;
+	float: right;
+	width: 50%;
+}
+.service2{
+	margin: 50px 0;
+}
+.back{
+	background-color: red;
+}
+.box2{
+	background-color: pink;
+	height: 150px;
+	margin: 20px 0;
+	text-align: center;
+}
+.bg-dark-3{
+	background-color: peachpuff;
+	padding: 20px 30px;
+}
+.total-3{
+	background-color: #dddd;
+	padding: 50px 30px;
+}
